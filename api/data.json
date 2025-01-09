@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "ger": "leute",
+        "rus": "люди"
+    },
+    {
+        "id": 2,
+        "ger": "verheiratet",
+        "rus": "в браке"
+    },
+    {
+        "id": 3,
+        "ger": "guten Tag!",
+        "rus": "добрый день!"
+    },
+    {
+        "id": 4,
+        "ger": "guten Morgen",
+        "rus": "доброе утро!"
+    },
+    {
+        "id": 5,
+        "ger": "guten Abend",
+        "rus": "добрый вечер!"
+    },
+    {
+        "id": 6,
+        "ger": "hallo!",
+        "rus": "привет"
+    },
+    {
+        "id": 7,
+        "ger": "auf Wiedersehen",
+        "rus": "до свидания"
+    },
+    {
+        "id": 8,
+        "ger": "tschus",
+        "rus": "пока"
+    },
+    {
+        "id": 9,
+        "ger": "gute Nacht",
+        "rus": "спокойной ночи"
+    },
+    {
+        "id": 10,
+        "ger": "Entschuldigung",
+        "rus": "извините"
+    },
+    {
+        "id": 11,
+        "ger": "bitte",
+        "rus": "пожалуйста"
+    },
+    {
+        "id": 12,
+        "ger": "danke",
+        "rus": "спасибо"
+    },
+    {
+        "id": 13,
+        "ger": "wie bitte?",
+        "rus": "что, простите?"
+    },
+    {
+        "id": 14,
+        "ger": "sehr angenehm",
+        "rus": "очень приятно"
+    },
+    {
+        "id": 15,
+        "ger": "bei",
+        "rus": "у, при, в"
+    },
+    {
+        "id": 16,
+        "ger": "ledig",
+        "rus": "холостой, незамужняя"
+    },
+    {
+        "id": 17,
+        "ger": "der Freund / die Freundin",
+        "rus": "друг / подруга"
+    },
+    {
+        "id": 18,
+        "ger": "der Student / die Studentin",
+        "rus": "студент / студентка"
+    },
+    {
+        "id": 19,
+        "ger": "der Lehrer / die Lehrerin",
+        "rus": "учитель / учительница"
+    },
+    {
+        "id": 20,
+        "ger": "der Schüler / die Schülerin",
+        "rus": "ученик / ученица"
+    },
+    {
+        "id": 21,
+        "ger": "geschieden",
+        "rus": "разведенный"
+    }
+]
