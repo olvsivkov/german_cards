@@ -809,6 +809,25 @@
         {"id": "t2u3v4", "ger": "das Glatteis", "rus": "гололед"},
         {"id": "w5x6y7", "ger": "das Klima, -s", "rus": "климат"},
         {"id": "z8a9b1", "ger": "das Tauwetter", "rus": "оттепель"},
-        {"id": "c2d3e4", "ger": "das Wetter", "rus": "погода"}
+        {"id": "c2d3e4", "ger": "das Wetter", "rus": "погода"},
+        {"id": "e7f8g9", "ger": "heiter", "rus": "ясный (о погоде)"},
+        {"id": "h1i2j3", "ger": "windig", "rus": "ветреный"},
+        {"id": "k4l5m6", "ger": "trocken", "rus": "сухой"},
+        {"id": "n7o8p9", "ger": "nass", "rus": "мокрый"},
+        {"id": "q1r2s3", "ger": "heiß", "rus": "жаркий"},
+        {"id": "t4u5v6", "ger": "kalt", "rus": "холодный"},
+        {"id": "w7x8y9", "ger": "warm", "rus": "тёплый"},
+        {"id": "z1a2b3", "ger": "kühl", "rus": "прохладный"},
+        {"id": "c4d5e6", "ger": "sonnig", "rus": "солнечный"},
+        {"id": "f7g8h9", "ger": "regnerisch", "rus": "дождливый"},
+        {"id": "i1j2k3", "ger": "hell", "rus": "светлый"},
+        {"id": "l4m5n6", "ger": "dunkel", "rus": "тёмный"},
+        {"id": "o7p8q9", "ger": "schmutzig", "rus": "грязный"},
+        {"id": "r1s2t3", "ger": "die Wettervorhersage, -n", "rus": "прогноз погоды (альтернативный вариант)"},
+        {"id": "u4v5w6", "ger": "die Eiszeit, -en", "rus": "ледниковый период"},
+        {"id": "x7y8z9", "ger": "der Regenbogen, -", "rus": "радуга"},
+        {"id": "a3b4c5", "ger": "der Schneesturm, ¨-e", "rus": "метель"},
+        {"id": "d6e7f8", "ger": "die Feuchtigkeit", "rus": "влажность"},
+        {"id": "g9h1i2", "ger": "der Sonnenschein", "rus": "солнечный свет"}
     ]
 }
