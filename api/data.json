@@ -855,5 +855,21 @@
         {"id": "l1m2n3", "ger": "Viel Glück", "rus": "Желаю удачи!"},
         {"id": "o4p5q6", "ger": "Viel Erfolg", "rus": "Желаю успеха!"},
         {"id": "r7s8t9", "ger": "Auf dein/Ihr Wohl", "rus": "За твое / Ваше здоровье! (тост)"}
+    ],
+    "Глаголы с управлением": [
+        {"id": "a1b2c3", "ger": "abhängen von (Dat)", "rus": "зависеть от"},
+        {"id": "d4e5f6", "ger": "bestehen aus (Dat)", "rus": "состоять из"},
+        {"id": "g7h8i9", "ger": "denken an (Akk)", "rus": "думать о"},
+        {"id": "j1k2l3", "ger": "fragen nach (Dat)", "rus": "спрашивать о"},
+        {"id": "m4n5o6", "ger": "es geht um (Akk)", "rus": "речь идет о"},
+        {"id": "p7q8r9", "ger": "hoffen auf (Akk)", "rus": "надеяться на"},
+        {"id": "s1t2u3", "ger": "sorgen für (Akk)", "rus": "заботиться о"},
+        {"id": "v4w5x6", "ger": "sprechen über (Akk)", "rus": "говорить о"},
+        {"id": "y7z8a9", "ger": "warten auf (Akk)", "rus": "ждать чего-л."},
+
+        {"id": "b1c2d3", "ger": "sich beschäftigen mit (Dat)", "rus": "заниматься чем-л."},
+        {"id": "e4f5g6", "ger": "sich freuen über (Akk)", "rus": "радоваться чему-л."},
+        {"id": "h7i8j9", "ger": "sich interessieren für (Akk)", "rus": "интересоваться"},
+        {"id": "k1l2m3", "ger": "sich vorbereiten auf (Akk)", "rus": "готовиться к"}
     ]
 }
