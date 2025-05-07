@@ -829,5 +829,31 @@
         {"id": "a3b4c5", "ger": "der Schneesturm, ¨-e", "rus": "метель"},
         {"id": "d6e7f8", "ger": "die Feuchtigkeit", "rus": "влажность"},
         {"id": "g9h1i2", "ger": "der Sonnenschein", "rus": "солнечный свет"}
+    ],
+    "Праздники и вечеринки": [
+        {"id": "a1b2c3", "ger": "der Erfolg", "rus": "успех"},
+        {"id": "d4e5f6", "ger": "der Gast", "rus": "гость"},
+        {"id": "g7h8i9", "ger": "der Gastgeber", "rus": "хозяин, принимающий гостей"},
+        {"id": "j1k2l3", "ger": "der Geburtstag", "rus": "день рождения"},
+        {"id": "m4n5o6", "ger": "der Glückwunsch", "rus": "поздравление"},
+        {"id": "p7q8r9", "ger": "der Gruß", "rus": "привет"},
+        {"id": "s1t2u3", "ger": "der Luftballon", "rus": "воздушный шар"},
+        {"id": "v4w5x6", "ger": "der Spaß", "rus": "удовольствие"},
+        {"id": "y7z8a9", "ger": "der Treffpunkt", "rus": "место встречи"},
+        {"id": "b1c2d3", "ger": "der Witz", "rus": "анекдот, шутка"},
+        {"id": "e4f5g6", "ger": "die Einladung", "rus": "приглашение"},
+        {"id": "h7i8j9", "ger": "die Laune", "rus": "настроение"},
+        {"id": "k1l2m3", "ger": "die Party", "rus": "вечеринка"},
+        {"id": "n4o5p6", "ger": "die Torte", "rus": "торт"},
+        {"id": "q7r8s9", "ger": "die Unterhaltung", "rus": "развлечение"},
+        {"id": "t1u2v3", "ger": "das Fest", "rus": "праздник"},
+        {"id": "w4x5y6", "ger": "das Geschenk", "rus": "подарок"},
+        {"id": "z7a8b9", "ger": "das Gespräch", "rus": "разговор"},
+        {"id": "c1d2e3", "ger": "das Glück", "rus": "счастье; удача"},
+        {"id": "f4g5h6", "ger": "das Lied", "rus": "песня"},
+        {"id": "i7j8k9", "ger": "Alles Gute", "rus": "Всего доброго/хорошего!"},
+        {"id": "l1m2n3", "ger": "Viel Glück", "rus": "Желаю удачи!"},
+        {"id": "o4p5q6", "ger": "Viel Erfolg", "rus": "Желаю успеха!"},
+        {"id": "r7s8t9", "ger": "Auf dein/Ihr Wohl", "rus": "За твое / Ваше здоровье! (тост)"}
     ]
 }
