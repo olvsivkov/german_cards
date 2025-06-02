@@ -920,5 +920,17 @@
         {"id": "un23", "ger": "das Unternehmen", "rus": "предприятие", "plural": "="},
         {"id": "vg24", "ger": "das Vorstellungsgespräch", "rus": "собеседование", "plural": "-e"},
         {"id": "zg25", "ger": "das Zeugnis", "rus": "аттестат", "plural": "-se"}
+    ],
+    "Неправильные глаголы":[
+        {"id": "ag1", "ger": "backen/buk/hat gebacken", "rus": "печь", "plural": "-"},
+        {"id": "ag2", "ger": "befehlen/befahl/hat befohlen", "rus": "приказывать", "plural": "-"},
+        {"id": "ag3", "ger": "beginnen/begann/hat begonnen", "rus": "начинать", "plural": "-"},
+        {"id": "ag4", "ger": "beißen/biß/hat gebissen", "rus": "кусать", "plural": "-"},
+        {"id": "ag5", "ger": "bergen/barg/hat geborgen", "rus": "спасать", "plural": "-"},
+        {"id": "ag6", "ger": "bersten/barst/ist geborsten", "rus": "лопнуть", "plural": "-"},
+        {"id": "ag7", "ger": "biegen/bog/hat gebogen", "rus": "гнуть", "plural": "-"},
+        {"id": "ag8", "ger": "bieten/bot/hat geboten", "rus": "предлагать", "plural": "-"},
+        {"id": "ag9", "ger": "binden/band/hat gebunden", "rus": "связывать", "plural": "-"},
+        {"id": "ag10", "ger": "bitten/bat/hat gebeten", "rus": "просить", "plural": "-"}
     ]
 }
