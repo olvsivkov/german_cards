@@ -922,15 +922,25 @@
         {"id": "zg25", "ger": "das Zeugnis", "rus": "аттестат", "plural": "-se"}
     ],
     "Неправильные глаголы":[
-        {"id": "ag1", "ger": "backen/buk/hat gebacken", "rus": "печь", "plural": "-"},
-        {"id": "ag2", "ger": "befehlen/befahl/hat befohlen", "rus": "приказывать", "plural": "-"},
-        {"id": "ag3", "ger": "beginnen/begann/hat begonnen", "rus": "начинать", "plural": "-"},
-        {"id": "ag4", "ger": "beißen/biß/hat gebissen", "rus": "кусать", "plural": "-"},
-        {"id": "ag5", "ger": "bergen/barg/hat geborgen", "rus": "спасать", "plural": "-"},
-        {"id": "ag6", "ger": "bersten/barst/ist geborsten", "rus": "лопнуть", "plural": "-"},
-        {"id": "ag7", "ger": "biegen/bog/hat gebogen", "rus": "гнуть", "plural": "-"},
-        {"id": "ag8", "ger": "bieten/bot/hat geboten", "rus": "предлагать", "plural": "-"},
-        {"id": "ag9", "ger": "binden/band/hat gebunden", "rus": "связывать", "plural": "-"},
-        {"id": "ag10", "ger": "bitten/bat/hat gebeten", "rus": "просить", "plural": "-"}
+        {"id": "b1c2d3", "ger": "backen/buk/hat gebacken", "rus": "печь", "plural": "-"},
+        {"id": "e4f5g6", "ger": "befehlen/befahl/hat befohlen", "rus": "приказывать", "plural": "-"},
+        {"id": "h7i8j9", "ger": "beginnen/begann/hat begonnen", "rus": "начинать", "plural": "-"},
+        {"id": "k1l2m3", "ger": "beißen/biß/hat gebissen", "rus": "кусать", "plural": "-"},
+        {"id": "n4o5p6", "ger": "bergen/barg/hat geborgen", "rus": "спасать", "plural": "-"},
+        {"id": "q7r8s9", "ger": "bersten/barst/ist geborsten", "rus": "лопнуть", "plural": "-"},
+        {"id": "t1u2v3", "ger": "biegen/bog/hat gebogen", "rus": "гнуть", "plural": "-"},
+        {"id": "w4x5y6", "ger": "bieten/bot/hat geboten", "rus": "предлагать", "plural": "-"},
+        {"id": "z1a2b3", "ger": "binden/band/hat gebunden", "rus": "связывать", "plural": "-"},
+        {"id": "c4d5e6", "ger": "bitten/bat/hat gebeten", "rus": "просить", "plural": "-"},
+        {"id": "f7g8h9", "ger": "blasen/blies/hat geblasen", "rus": "дуть", "plural": "-"},
+        {"id": "i1j2k3", "ger": "bleiben/blieb/ist geblieben", "rus": "оставаться", "plural": "-"},
+        {"id": "l4m5n6", "ger": "braten/briet/hat gebraten", "rus": "жарить", "plural": "-"},
+        {"id": "o7p8q9", "ger": "brechen/brach/hat(ist) gebrochen", "rus": "ломать", "plural": "-"},
+        {"id": "r1s2t3", "ger": "brennen/brannte/hat gebrannt", "rus": "гореть", "plural": "-"},
+        {"id": "u4v5w6", "ger": "bringen/brachte/hat gebracht", "rus": "приносить", "plural": "-"},
+        {"id": "x7y8z9", "ger": "denken/dachte/hat gedacht", "rus": "думать", "plural": "-"},
+        {"id": "a1b2c3", "ger": "dreschen/drosch/hat gedroschen", "rus": "молотить", "plural": "-"},
+        {"id": "d4e5f6", "ger": "dringen/drang/hat(ist) gedrungen", "rus": "проникать", "plural": "-"},
+        {"id": "g7h8i9", "ger": "dürfen/durfte/hat gedurft", "rus": "мочь (иметь разрешение)", "plural": "-"}
     ]
 }
