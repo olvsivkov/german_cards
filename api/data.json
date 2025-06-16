@@ -950,7 +950,17 @@
         {"id":"f1a2l3","ger":"fallen/fiel/ist gefallen","rus":"падать","plural":"-"},
         {"id":"f1a2n3","ger":"fangen/fing/hat gefangen","rus":"ловить","plural":"-"},
         {"id":"f1e2c3","ger":"fechten/focht/hat gefochten","rus":"фехтовать","plural":"-"},
-        {"id":"f1i2n3","ger":"finden/fand/hat gefunden","rus":"находить","plural":"-"}
+        {"id":"f1i2n3","ger":"finden/fand/hat gefunden","rus":"находить","plural":"-"},
+        { "id": "f1e2c3", "ger": "flechten/flocht/hat geflochten", "rus": "плести", "plural": "-" },
+        { "id": "f2l3i4", "ger": "fliegen/flog/hat/ist geflogen", "rus": "летать", "plural": "-" },
+        { "id": "f3l4h5", "ger": "fliehen/floh/ist geflohen", "rus": "убегать, удирать", "plural": "-" },
+        { "id": "f4l5s6", "ger": "fließen/floss/ist geflossen", "rus": "течь, литься", "plural": "-" },
+        { "id": "f5r6s7", "ger": "fressen/fraß/hat gefressen", "rus": "жрать, лопать", "plural": "-" },
+        { "id": "f6r7i8", "ger": "frieren/fror/hat gefroren", "rus": "замерзать", "plural": "-" },
+        { "id": "g1a2r3", "ger": "gären/gor/ist gegoren", "rus": "бродить", "plural": "-" },
+        { "id": "g2e3b4", "ger": "gebären/gebar/hat/ist geboren", "rus": "родить", "plural": "-" },
+        { "id": "g3e4b5", "ger": "geben/gab/hat gegeben", "rus": "давать", "plural": "-" },
+        { "id": "g4e5d6", "ger": "gedeihen/gedieh/ist gediehen", "rus": "расти, преуспевать", "plural": "-" },
     ],
     "Одежда": [
         {"id":"a1n2z3","ger":"der Anzug, ¨-e","rus":"костюм","plural":"Anzüge"},
