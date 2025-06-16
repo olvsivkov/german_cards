@@ -960,7 +960,7 @@
         { "id": "g1a2r3", "ger": "gären/gor/ist gegoren", "rus": "бродить", "plural": "-" },
         { "id": "g2e3b4", "ger": "gebären/gebar/hat/ist geboren", "rus": "родить", "plural": "-" },
         { "id": "g3e4b5", "ger": "geben/gab/hat gegeben", "rus": "давать", "plural": "-" },
-        { "id": "g4e5d6", "ger": "gedeihen/gedieh/ist gediehen", "rus": "расти, преуспевать", "plural": "-" },
+        { "id": "g4e5d6", "ger": "gedeihen/gedieh/ist gediehen", "rus": "расти, преуспевать", "plural": "-" }
     ],
     "Одежда": [
         {"id":"a1n2z3","ger":"der Anzug, ¨-e","rus":"костюм","plural":"Anzüge"},
