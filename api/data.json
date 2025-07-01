@@ -1030,5 +1030,22 @@
         {"id":"s1c2h6","ger":"die Schaufensterpuppe, -n","rus":"манекен","plural":"Schaufensterpuppen"},
         {"id":"m1o2d3","ger":"die Mode, -n","rus":"мода","plural":"Moden"},
         {"id":"s1c2h7","ger":"das Schaufenster, =","rus":"витрина","plural":"Schaufenster"}
+    ], 
+    "Одежда (Материал, фасон)": [
+        {"id": "a1b2c3", "ger": "lang, leicht / Strandkleid", "rus": "длинное, лёгкое / пляжное платье"},
+        {"id": "d4e5f6", "ger": "modisch, tailliert / Jeans-Jacke", "rus": "модная, приталенная / джинсовая куртка"},
+        {"id": "g7h8i9", "ger": "kurz, wollen / Wintermantel", "rus": "короткое, шерстяное / зимнее пальто"},
+        {"id": "j1k2l3", "ger": "bequem, warm / Fleecepullover", "rus": "удобный, тёплый / флисовый свитер"},
+        {"id": "m4n5o6", "ger": "pflegeleicht, praktisch / Freizeitanzug", "rus": "немнущийся, практичный / спортивный костюм"},
+        {"id": "p7q8r9", "ger": "kariert, zierlich / Minirock", "rus": "клетчатый, изящный / мини-юбка"},
+        {"id": "s1t2u3", "ger": "weit, baumwollen / Jeans-Longbluse", "rus": "свободная, хлопковая / длинная джинсовая блуза"},
+        {"id": "v4w5x6", "ger": "hübsch, geblümt / Poloshirt", "rus": "красивый, цветочный / поло"},
+        {"id": "y7z8a9", "ger": "lässig, baumwollen / Cargohose", "rus": "повседневные, хлопковые / карго-брюки"},
+        {"id": "b1c2d3", "ger": "modisch, sportlich / Lederjacke", "rus": "модная, спортивная / кожаная куртка"},
+        {"id": "e4f5g6", "ger": "leicht, warm / Cashmere-Mantel", "rus": "лёгкое, тёплое / кашемировое пальто"},
+        {"id": "h7i8j9", "ger": "gestreift, wollen / Pullover mit Rundausschnitt", "rus": "полосатый, шерстяной / свитер с круглым вырезом"},
+        {"id": "k1l2m3", "ger": "elegant, tailliert / 2-Knopf-Sakko", "rus": "элегантный, приталенный / двубортный пиджак"},
+        {"id": "n4o5p6", "ger": "kariert, lässig / Langarmhemd", "rus": "клетчатая, повседневная / рубашка с длинным рукавом"},
+        {"id": "q7r8s9", "ger": "elegant, klassisch / Anzugshose", "rus": "элегантные, классические / брюки от костюма"}
     ]
 }
