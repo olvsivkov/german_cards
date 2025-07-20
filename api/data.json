@@ -1079,5 +1079,30 @@
         {"id": "k1l2m3", "ger": "elegant, tailliert / 2-Knopf-Sakko", "rus": "элегантный, приталенный / двубортный пиджак"},
         {"id": "n4o5p6", "ger": "kariert, lässig / Langarmhemd", "rus": "клетчатая, повседневная / рубашка с длинным рукавом"},
         {"id": "q7r8s9", "ger": "elegant, klassisch / Anzugshose", "rus": "элегантные, классические / брюки от костюма"}
-    ]
+    ],
+    "В отеле":[
+        {"id": "e1m2p3", "ger": "der Empfangschef, -s", "rus": "администратор"},
+        {"id": "f0h1n2", "ger": "der Föhn, -e", "rus": "фен"},
+        {"id": "s0f1e2", "ger": "der Safe, -s", "rus": "сейф"},
+        {"id": "s2h3l4", "ger": "der Schalter, =", "rus": "выключатель"},
+        {"id": "s4t5r6", "ger": "der Strom", "rus": "электричество, ток"},
+        {"id": "b5d6n7", "ger": "die Bedienung, -en", "rus": "обслуживание"},
+        {"id": "b6r7n8", "ger": "die Birne, -n", "rus": "лампочка"},
+        {"id": "d7c8k9", "ger": "die Decke, -n", "rus": "одеяло"},
+        {"id": "h8l9p0", "ger": "die Halbpension", "rus": "полупансион"},
+        {"id": "k9l0m1", "ger": "die Klimaanlage, -n", "rus": "кондиционер"},
+        {"id": "r0c1h2", "ger": "die Rechnung, -en", "rus": "счет"},
+        {"id": "r1s2r3", "ger": "die Reservierung, -en", "rus": "бронь, заказ (номера и т.п.)"},
+        {"id": "r2z3p4", "ger": "die Rezeption, -en", "rus": "ресепшн"},
+        {"id": "s3t4d5", "ger": "die Steckdose, -n", "rus": "розетка"},
+        {"id": "u4b5n6", "ger": "die Übernachtung, -en", "rus": "ночевка"},
+        {"id": "v5l6p7", "ger": "die Vollpension", "rus": "полный пансион"},
+        {"id": "b6g7l8", "ger": "das Bügeleisen", "rus": "утюг"},
+        {"id": "d7p8z9", "ger": "das Doppelzimmer, =", "rus": "двухместный номер"},
+        {"id": "e8n9z0", "ger": "das Einzelzimmer, =", "rus": "одноместный номер"},
+        {"id": "h9n0t1", "ger": "das Handtuch, ¨-er", "rus": "полотенце"},
+        {"id": "k0s1s2", "ger": "das Kissen, =", "rus": "подушка"},
+        {"id": "t1p2p3", "ger": "das Toilettenpapier", "rus": "туалетная бумага"},
+        {"id": "z2m3d4", "ger": "das Zimmermädchen, =", "rus": "горничная"}
+    ] 
 }
