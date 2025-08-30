@@ -1163,6 +1163,22 @@
         {"id": "d1e2n3", "ger": "denken / dachte", "rus": "думать"},
         {"id": "k1e2n3", "ger": "kennen / kannte", "rus": "знать"},
         {"id": "n1e2n3", "ger": "nennen / nannte", "rus": "называть"},
-        {"id": "w1i2s3", "ger": "wissen / wusste", "rus": "знать"}
+        {"id": "w1i2s3", "ger": "wissen / wusste", "rus": "знать"},
+        {"id": "h1a2b3", "ger": "haben / hatte", "rus": "иметь"},
+        {"id": "s1e2i3", "ger": "sein / war", "rus": "быть"},
+        {"id": "w1e2r3", "ger": "werden / wurde", "rus": "становиться"},
+        {"id": "k1o2n3", "ger": "können / konnte", "rus": "мочь (уметь)"},
+        {"id": "d1u2r3", "ger": "dürfen / durfte", "rus": "мочь (иметь разрешение)"},
+        {"id": "m1u2s3", "ger": "müssen / musste", "rus": "быть вынужденным"},
+        {"id": "s1o2l3", "ger": "sollen / sollte", "rus": "быть должным"},
+        {"id": "w1o2l3", "ger": "wollen / wollte", "rus": "хотеть"},
+        {"id": "l1e2g3", "ger": "legen / legte", "rus": "класть"},
+        {"id": "l1i2e3", "ger": "liegen / lag", "rus": "лежать"},
+        {"id": "s1e2t3", "ger": "setzen / setzte", "rus": "сажать (посадить)"},
+        {"id": "s1i2t3", "ger": "sitzen / saß", "rus": "сидеть"},
+        {"id": "s1t2e3", "ger": "stellen / stellte", "rus": "ставить"},
+        {"id": "s1t2a3", "ger": "stehen / stand", "rus": "стоять"},
+        {"id": "h1a2n3", "ger": "hängen / hängte", "rus": "вешать (активное действие)"},
+        {"id": "h1i2n3", "ger": "hängen / hing", "rus": "висеть (состояние)"}
     ]  
 }
