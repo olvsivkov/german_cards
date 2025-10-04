@@ -1223,6 +1223,29 @@
         {"id": "t1r2a4", "ger": "das Training", "rus": "тренировка"},
         {"id": "t1u2r3", "ger": "das Turnen", "rus": "спортивная гимнастика"},
         {"id": "z1i2e3", "ger": "das Ziel, -e", "rus": "цель; финиш"}
+    ],
+    "Глаголы с частицей zu": [
+        {"id": "b1i2t3", "ger": "bitten, etwas zu tun", "rus": "просить…"},
+        {"id": "e1r2l3", "ger": "erlauben, etwas zu tun", "rus": "разрешать…"},
+        {"id": "h1o2f3", "ger": "hoffen, etwas zu tun", "rus": "надеяться"},
+        {"id": "p1l2a3", "ger": "planen, etwas zu tun", "rus": "планировать…"},
+        {"id": "r1a2t3", "ger": "raten, etwas zu tun", "rus": "советовать…"},
+        {"id": "v1e2r3", "ger": "verbieten, etwas zu tun", "rus": "запрещать…"},
+        {"id": "v1e2r4", "ger": "vergessen, etwas zu tun", "rus": "забывать…"},
+        {"id": "v1e2r5", "ger": "versprechen, etwas zu tun", "rus": "обещать…"},
+        {"id": "v1e2r6", "ger": "versuchen, etwas zu tun", "rus": "пытаться…"},
+        {"id": "v1o2r3", "ger": "vorschlagen, etwas zu tun", "rus": "предлагать…"},
+        {"id": "l1u2s3", "ger": "(keine) Lust haben, etwas zu tun", "rus": "(не) иметь желание(я)…"},
+        {"id": "m1o2g3", "ger": "(keine) Möglichkeit haben, etwas zu tun", "rus": "(не) иметь возможность(и)…"},
+        {"id": "z1e2i3", "ger": "(keine) Zeit haben, etwas zu tun", "rus": "(не) иметь время(ени)…"},
+        {"id": "g1e2s3", "ger": "Es ist gesund, etwas zu tun", "rus": "полезно для здоровья…"},
+        {"id": "l1e2i3", "ger": "Es ist leicht, etwas zu tun", "rus": "легко…"},
+        {"id": "m1o2g4", "ger": "Es ist möglich, etwas zu tun", "rus": "возможно…"},
+        {"id": "n1o2t3", "ger": "Es ist notwendig, etwas zu tun", "rus": "необходимо…"},
+        {"id": "s1c2h3", "ger": "Es ist schön, etwas zu tun", "rus": "хорошо, здорово…"},
+        {"id": "s1c2h4", "ger": "Es ist schwer, etwas zu tun", "rus": "трудно, тяжело…"},
+        {"id": "v1e2r7", "ger": "Es ist verboten, etwas zu tun", "rus": "запрещено…"},
+        {"id": "w1i2c3", "ger": "Es ist wichtig, etwas zu tun", "rus": "важно…"}
     ]
 }  
 
