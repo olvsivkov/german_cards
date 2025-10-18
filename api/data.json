@@ -1246,6 +1246,32 @@
         {"id": "s1c2h4", "ger": "Es ist schwer, etwas zu tun", "rus": "трудно, тяжело…"},
         {"id": "v1e2r7", "ger": "Es ist verboten, etwas zu tun", "rus": "запрещено…"},
         {"id": "w1i2c3", "ger": "Es ist wichtig, etwas zu tun", "rus": "важно…"}
-    ]
+    ],
+     "Спорт и Фитнес": [
+    {"id": "m1u2s3", "ger": "der Muskel, -n", "rus": "мускул"},
+    {"id": "l1e2b3", "ger": "die Lebensweise, -n", "rus": "образ жизни"},
+    {"id": "s1p2o3", "ger": "Sport treiben (trieb, getrieben)", "rus": "заниматься спортом"},
+    {"id": "f1i2t3", "ger": "fit halten", "rus": "держать в форме"},
+    {"id": "v1e2r3", "ger": "verbessern", "rus": "улучшать"},
+    {"id": "l1a2u3", "ger": "die Laune", "rus": "настроение"},
+    {"id": "k1r2a3", "ger": "die Kraft, ¨-e", "rus": "сила"},
+    {"id": "j1o2g3", "ger": "joggen", "rus": "бегать трусцой"},
+    {"id": "s1p2o4", "ger": "die Sportart, -en", "rus": "вид спорта"},
+    {"id": "g1e2h3", "ger": "gehören zu + D.", "rus": "относиться к чему-л."},
+    {"id": "e1i2s3", "ger": "der Eiskunstlauf", "rus": "фигурное катание"},
+    {"id": "b1e2l3", "ger": "beliebt", "rus": "любимый, излюбленный"},
+    {"id": "v1e2r4", "ger": "der Verein, -e", "rus": "клуб, общество"},
+    {"id": "m1i2t3", "ger": "das Mitglied, -er", "rus": "член (организации)"},
+    {"id": "t1e2i3", "ger": "teilnehmen an + D.", "rus": "принимать участие в …"},
+    {"id": "m1e2i3", "ger": "die Meisterschaft, -en", "rus": "чемпионат"},
+    {"id": "s1i2e3", "ger": "der Sieger, =", "rus": "победитель"},
+    {"id": "w1a2s3", "ger": "Was (Akk.) betrifft, …", "rus": "что касается …"},
+    {"id": "u1m2z3", "ger": "sich umziehen", "rus": "переодеваться"},
+    {"id": "l1a2u4", "ger": "das Laufband, ¨-er", "rus": "беговая дорожка (тренажер)"},
+    {"id": "w1a2r3", "ger": "sich warmlaufen", "rus": "разогреваться (на беговой дорожке)"},
+    {"id": "h1a2n3", "ger": "die Hantel, -n", "rus": "гантель; штанга"},
+    {"id": "f1i2t4", "ger": "das Fitnessgerät, -e", "rus": "тренажер"},
+    {"id": "a1b2t3", "ger": "sich abtrocknen", "rus": "вытираться"}
+  ]
 }  
 
