@@ -1,23 +1,59 @@
 {
-    "Глаголы": [
-        {"id": "V1", "ger": "bedienen", "rus": "обслуживать"},
-        {"id": "V2", "ger": "entwickeln", "rus": "развивать"},
-        {"id": "V3", "ger": "faulenzen", "rus": "лениться"},
-        {"id": "V4", "ger": "ausdrucken", "rus": "распечатать"},
-        {"id": "V5", "ger": "erwartet", "rus": "ожидает"},
-        {"id": "V6", "ger": "ab_sagen", "rus": "отменить, отказать"},
-        {"id": "V7", "ger": "vereinbaren", "rus": "договариваться"},
-        {"id": "V8", "ger": "an einer Besprechung teilnehmen", "rus": "присутствовать на собрании"}
-    ],
-    "Существительные и фразы": [
-        {"id": "N1", "ger": "Vorlesungen und Seminare", "rus": "Лекции и Семинары"},
-        {"id": "N2", "ger": "Kneipe", "rus": "пивнуха"},
-        {"id": "N3", "ger": "Entscheidung", "rus": "решение"}
-    ],
-    "Прилагательные и наречия": [
-        {"id": "A1", "ger": "vermutlich", "rus": "вероятно, наверно"},
-        {"id": "A2", "ger": "genauso", "rus": "так же, на равне"},
-        {"id": "A3", "ger": "toll", "rus": "потрясающий"},
-        {"id": "A4", "ger": "aufregend", "rus": "захватывающий"}
-    ]
+  "Глаголы": [
+    {"id": "4A6A1624AADCC5C", "ger": "bedienen", "rus": "обслуживать"},
+    {"id": "59E0F053DA702C1", "ger": "entwickeln", "rus": "развивать"},
+    {"id": "93A332133664497", "ger": "ausdrucken", "rus": "распечатать"},
+    {"id": "C40D77B06C140E6", "ger": "vereinbaren", "rus": "договариваться"},
+    {"id": "F59162C8DC69665", "ger": "bevorzugen", "rus": "предпочитать"},
+    {"id": "CDBD63B67FCAFA7", "ger": "wählen", "rus": "выбирать"},
+    {"id": "AC462E56D0E5689", "ger": "stammen", "rus": "происходить"},
+    {"id": "CE10EBFD5490D21", "ger": "gelten", "rus": "считаться"},
+    {"id": "A377AA7BA6B7B89", "ger": "zählen", "rus": "считаться"},
+    {"id": "9114B96BC8C7745", "ger": "buchen", "rus": "бронировать"},
+    {"id": "CCE36C1003446C7", "ger": "vorstellen", "rus": "представлять"},
+    {"id": "823ECF3D1C5701A", "ger": "kennenlernen", "rus": "познакомиться"},
+    {"id": "37E96255CDB39F7", "ger": "erleben", "rus": "пережить"}
+  ],
+  "Существительные": [
+    {"id": "7E3A2896A98316E", "ger": "Vorlesungen und Seminare", "rus": "Лекции и Семинары"},
+    {"id": "FF0A13C8B1E402C", "ger": "Kneipe", "rus": "пивнуха"},
+    {"id": "F8B5E3A08468BC6", "ger": "Entscheidung", "rus": "решение"},
+    {"id": "76A196F0C0325F3", "ger": "Märchenschloss", "rus": "сказочный замок"},
+    {"id": "FFBA6D6D60C7F8F", "ger": "Wahrzeichen", "rus": "достопримечательность"},
+    {"id": "16154D06C8300F8", "ger": "Auskunft", "rus": "справочная информация"},
+    {"id": "F13ABA0436FEC04", "ger": "Sonderausstellung", "rus": "специальная выставка"},
+    {"id": "F5CB9FACA761768", "ger": "die Führung", "rus": "экскурсия"}
+  ],
+  "Прилагательные и наречия": [
+    {"id": "C39551A0D26158D", "ger": "vermutlich", "rus": "вероятно, наверно"},
+    {"id": "5D5116D0F8593B1", "ger": "genauso", "rus": "так же"},
+    {"id": "EED72AFC4CD6DD1", "ger": "toll", "rus": "потрясающий"},
+    {"id": "398F4E4C4C2C27B", "ger": "aufregend", "rus": "захватывающий"},
+    {"id": "A57D0E4DC324097", "ger": "beeindruckend", "rus": "впечатляющий"},
+    {"id": "CF5ED71426238C0", "ger": "sehenswert", "rus": "примечательный"},
+    {"id": "502064E44DF95B3", "ger": "berühmt", "rus": "знаменитый"},
+    {"id": "E2C2FC13541961E", "ger": "durchschnittliche", "rus": "средняя"},
+    {"id": "CBB7A446294B4CE", "ger": "mehrmals", "rus": "несколько раз"},
+    {"id": "F023BF2524A21B8", "ger": "klingt", "rus": "звучит"},
+    {"id": "26F56E1BA762DA1", "ger": "faszinierend", "rus": "завораживающий"},
+    {"id": "B935B27E3B4C0D9", "ger": "selbstverständlich", "rus": "разумеется"},
+    {"id": "unbedingt1", "ger": "unbedingt", "rus": "обязательно"}
+  ],
+  "Фразеологизмы и выражения": [
+    {"id": "A303F2246C66DE9", "ger": "an einer Besprechung teilnehmen", "rus": "присутствовать на собрании"},
+    {"id": "955C25A4556C246", "ger": "ab_sagen", "rus": "отменить, отказать"},
+    {"id": "C48A78A699DAAD8", "ger": "sozusagen", "rus": "так сказать"},
+    {"id": "EC16865AA5A7B93", "ger": "sehenswert finden", "rus": "считать примечательным"},
+    {"id": "Möglicherweise1", "ger": "möglicherweise", "rus": "возможно"},
+    {"id": "Tat1", "ger": "in der Tat", "rus": "на самом деле"},
+    {"id": "Tatsächlich1", "ger": "tatsächlich", "rus": "действительно"},
+    {"id": "Fall1", "ger": "auf jeden Fall", "rus": "в любом случае"},
+    {"id": "gesagt1", "ger": "offen gesagt", "rus": "откровенно говоря"},
+    {"id": "Ausserdem1", "ger": "außerdem", "rus": "кроме того"},
+    {"id": "übrigens1", "ger": "übrigens", "rus": "кстати"},
+    {"id": "Einerseits1", "ger": "einerseits", "rus": "с одной стороны"},
+    {"id": "Andererseits1", "ger": "andererseits", "rus": "с другой стороны"},
+    {"id": "Zusammenfassend1", "ger": "zusammenfassend", "rus": "подводя итог"},
+    {"id": "Soweit1", "ger": "soweit ich weiß", "rus": "насколько я знаю"}
+  ]
 }
