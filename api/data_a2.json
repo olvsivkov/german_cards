@@ -1,0 +1,23 @@
+{
+    "Глаголы": [
+        {"id": "V1", "ger": "bedienen", "rus": "обслуживать"},
+        {"id": "V2", "ger": "entwickeln", "rus": "развивать"},
+        {"id": "V3", "ger": "faulenzen", "rus": "лениться"},
+        {"id": "V4", "ger": "ausdrucken", "rus": "распечатать"},
+        {"id": "V5", "ger": "erwartet", "rus": "ожидает"},
+        {"id": "V6", "ger": "ab_sagen", "rus": "отменить, отказать"},
+        {"id": "V7", "ger": "vereinbaren", "rus": "договариваться"},
+        {"id": "V8", "ger": "an einer Besprechung teilnehmen", "rus": "присутствовать на собрании"}
+    ],
+    "Существительные и фразы": [
+        {"id": "N1", "ger": "Vorlesungen und Seminare", "rus": "Лекции и Семинары"},
+        {"id": "N2", "ger": "Kneipe", "rus": "пивнуха"},
+        {"id": "N3", "ger": "Entscheidung", "rus": "решение"}
+    ],
+    "Прилагательные и наречия": [
+        {"id": "A1", "ger": "vermutlich", "rus": "вероятно, наверно"},
+        {"id": "A2", "ger": "genauso", "rus": "так же, на равне"},
+        {"id": "A3", "ger": "toll", "rus": "потрясающий"},
+        {"id": "A4", "ger": "aufregend", "rus": "захватывающий"}
+    ]
+}
