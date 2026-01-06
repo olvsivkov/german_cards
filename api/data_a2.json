@@ -169,6 +169,9 @@
     {"id": "903738495A6B7C8D", "ger": "die Soße", "rus": "соус"},
     {"id": "A1485A6B7C8D9E0F", "ger": "würzen", "rus": "приправлять, добавлять специи"},
     {"id": "B2596B7C8D9E0F10", "ger": "der Genuss", "rus": "наслаждение"},
-    {"id": "C36A7C8D9E0F1021", "ger": "die Spezialität", "rus": "фирменное блюдо, специалитет"}
+    {"id": "C36A7C8D9E0F1021", "ger": "die Spezialität", "rus": "фирменное блюдо, специалитет"},
+    {"id": "D47F1A2B3C4D5E6F", "ger": "ausgezeichnet", "rus": "отлично"},
+    {"id": "E58F1A2B3C4D5E6F", "ger": "genügend", "rus": "удовлетворительно; достаточно"},
+    {"id": "F69F1A2B3C4D5E6F", "ger": "ungenügend", "rus": "неудовлетворительно; недостаточно"}
   ]
 }
