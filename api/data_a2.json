@@ -149,5 +149,26 @@
     {"id": "A1B2C3D4E5F67946", "ger": "das Brötchen", "rus": "булочка"},
     {"id": "A1B2C3D4E5F67947", "ger": "die Nudeln", "rus": "макароны"},
     {"id": "A1B2C3D4E5F67948", "ger": "der Brei", "rus": "каша"}
+  ],
+  "Новые слова из трех текстов": [
+    {"id": "A1B2C3D4E5F6A7B8", "ger": "arme Leute", "rus": "бедные люди"},
+    {"id": "B2C3D4E5F6A7B8C9", "ger": "doch", "rus": "однако; всё-таки"},
+    {"id": "C3D4E5F6A7B8C9D0", "ger": "in Berichten über ...", "rus": "в сообщениях / в статьях о ..."},
+    {"id": "D4E5F6A7B8C9D0E1", "ger": "mühelos", "rus": "без усилий, легко"},
+    {"id": "E5F6A7B8C9D0E1F2", "ger": "schicken", "rus": "посылать, отправлять"},
+    {"id": "F6A7B8C9D0E1F203", "ger": "die Herkunft", "rus": "происхождение"},
+    {"id": "07A8B9C0D1E2F304", "ger": "erfinden", "rus": "изобретать, выдумывать"},
+    {"id": "18B9C0D1E2F30415", "ger": "von diesem Zeitpunkt", "rus": "с этого момента"},
+    {"id": "29C0D1E2F3041516", "ger": "tatsächlich", "rus": "действительно, на самом деле"},
+    {"id": "3AD1E2F304151627", "ger": "gleich", "rus": "сейчас же; сразу; одинаковый"},
+    {"id": "4BE2F30415162738", "ger": "abschneiden", "rus": "отрезать; преуспевать (в чём‑то)"},
+    {"id": "5CF3041516273849", "ger": "ein Genussmensch", "rus": "человек, любящий наслаждения (едой, жизнью)"},
+    {"id": "6D0515162738495A", "ger": "ein Gericht besonders lecker", "rus": "блюдо особенно вкусное"},
+    {"id": "7E15162738495A6B", "ger": "der Imbissstand", "rus": "киоск с закусками"},
+    {"id": "8F2638495A6B7C8D", "ger": "das Straßenessen", "rus": "уличная еда"},
+    {"id": "903738495A6B7C8D", "ger": "die Soße", "rus": "соус"},
+    {"id": "A1485A6B7C8D9E0F", "ger": "würzen", "rus": "приправлять, добавлять специи"},
+    {"id": "B2596B7C8D9E0F10", "ger": "der Genuss", "rus": "наслаждение"},
+    {"id": "C36A7C8D9E0F1021", "ger": "die Spezialität", "rus": "фирменное блюдо, специалитет"}
   ]
 }
