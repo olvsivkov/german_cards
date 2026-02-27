@@ -452,5 +452,22 @@
     { "id": "I3J4K5L6M7N8O9P0", "ger": "einschreiben", "rus": "зачисляться" },
     { "id": "Q1R2S3T4U5V6W7X8", "ger": "Voranmeldung", "rus": "предварительная запись" },
     { "id": "Y9Z0A1B2C3D4E5F6", "ger": "Studiengebühren", "rus": "плата за обучение" }
+  ],
+  "Слова по теме Счастье (Glück)": [
+    { "id": "GLUECK001", "ger": "das Glück", "rus": "счастье, удача" },
+    { "id": "GLUECK002", "ger": "zeigen", "rus": "показывать" },
+    { "id": "GLUECK003", "ger": "das Studium", "rus": "учеба, обучение (в вузе)" },
+    { "id": "GLUECK004", "ger": "der Einfluss", "rus": "влияние" },
+    { "id": "GLUECK005", "ger": "die Zufriedenheit", "rus": "удовлетворенность" },
+    { "id": "GLUECK006", "ger": "die Faktoren", "rus": "факторы (мн.ч.)" },
+    { "id": "GLUECK007", "ger": "das Sprichwort", "rus": "пословица" },
+    { "id": "GLUECK008", "ger": "das Geld", "rus": "деньги" },
+    { "id": "GLUECK009", "ger": "die Sicherheit", "rus": "безопасность, уверенность" },
+    { "id": "GLUECK010", "ger": "die Voraussetzung", "rus": "предпосылка, условие" },
+    { "id": "GLUECK011", "ger": "der Wissenschaftler", "rus": "ученый" },
+    { "id": "GLUECK012", "ger": "die Beziehung", "rus": "отношения, связь" },
+    { "id": "GLUECK013", "ger": "die Tätigkeit", "rus": "деятельность, занятие" },
+    { "id": "GLUECK014", "ger": "ehrenamtlich", "rus": "на общественных началах, волонтерский (прил.)" },
+    { "id": "GLUECK015", "ger": "bestimmen", "rus": "определять, обусловливать" }
   ]
 }
