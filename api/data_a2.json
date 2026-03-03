@@ -469,5 +469,18 @@
     { "id": "GLUECK013", "ger": "die Tätigkeit", "rus": "деятельность, занятие" },
     { "id": "GLUECK014", "ger": "ehrenamtlich", "rus": "на общественных началах, волонтерский (прил.)" },
     { "id": "GLUECK015", "ger": "bestimmen", "rus": "определять, обусловливать" }
-  ]
+  ],
+  "Свадьба":
+    [
+      { "id": "HOCHZEIT001", "ger": "die Hochzeit", "rus": "свадьба" },
+      { "id": "HOCHZEIT002", "ger": "der Heiratsantrag", "rus": "предложение руки и сердца" },
+      { "id": "HOCHZEIT003", "ger": "der Polterabend", "rus": "мальчишник / канун свадьбы (с битьём посуды)" },
+      { "id": "HOCHZEIT004", "ger": "die Verwandten", "rus": "родственники" },
+      { "id": "HOCHZEIT005", "ger": "zerschlagen", "rus": "разбивать" },
+      { "id": "HOCHZEIT006", "ger": "die Trauung", "rus": "бракосочетание, венчание" },
+      { "id": "HOCHZEIT007", "ger": "das Standesamt", "rus": "ЗАГС" },
+      { "id": "HOCHZEIT008", "ger": "die Trauzeugen", "rus": "свидетели (на свадьбе)" },
+      { "id": "HOCHZEIT009", "ger": "die Braut", "rus": "невеста" },
+      { "id": "HOCHZEIT010", "ger": "der Bräutigam", "rus": "жених" }
+    ]
 }
