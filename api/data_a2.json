@@ -568,5 +568,33 @@
       { "id": "SHOP017", "ger": "Geben Sie auch einen Rabatt?", "rus": "Вы даете скидку?" },
       { "id": "SHOP018", "ger": "Tut mir leid. Auf diesen Artikel gibt es keinen Rabatt.", "rus": "Извините. На этот товар скидки нет." },
       { "id": "SHOP019", "ger": "Ich überlege mir das noch einmal.", "rus": "Я еще подумаю." }
-    ]
+    ],
+    "Сильные глаголы": [
+    { "id": "VERB001", "ger": "anprobieren, probierte an, hat anprobiert", "rus": "примерять" },
+    { "id": "VERB002", "ger": "bestimmen, bestimmte, hat bestimmt", "rus": "определять" },
+    { "id": "VERB003", "ger": "erweitern, erweiterte, hat erweitert", "rus": "расширять" },
+    { "id": "VERB004", "ger": "sich fühlen, fühlte sich, hat sich gefühlt", "rus": "чувствовать себя" },
+    { "id": "VERB005", "ger": "gehören, gehörte, hat gehört", "rus": "принадлежать" },
+    { "id": "VERB006", "ger": "gründen, gründete, hat gegründet", "rus": "основывать" },
+    { "id": "VERB007", "ger": "heiraten, heiratete, hat geheiratet", "rus": "жениться / выходить замуж" },
+    { "id": "VERB008", "ger": "schenken, schenkte, hat geschenkt", "rus": "дарить" },
+    { "id": "VERB009", "ger": "verdienen, verdiente, hat verdient", "rus": "зарабатывать" },
+    { "id": "VERB010", "ger": "zählen, zählte, hat gezählt", "rus": "считать(ся)" },
+    { "id": "VERB011", "ger": "anbieten, bot an, hat angeboten", "rus": "предлагать" },
+    { "id": "VERB012", "ger": "anschneiden, schnitt an, hat angeschnitten", "rus": "надрезать / разрезать (торт)" },
+    { "id": "VERB013", "ger": "sich befinden, befand sich, hat sich befunden", "rus": "находиться" },
+    { "id": "VERB014", "ger": "bestehen, bestand, hat bestanden", "rus": "существовать; состоять (из)" },
+    { "id": "VERB015", "ger": "betragen, betrug, hat betragen", "rus": "составлять (сумму)" },
+    { "id": "VERB016", "ger": "einladen, lud ein, hat eingeladen", "rus": "приглашать" },
+    { "id": "VERB017", "ger": "halten, hielt, hat gehalten", "rus": "держать; сохраняться" },
+    { "id": "VERB018", "ger": "herausfinden, fand heraus, hat herausgefunden", "rus": "выяснять, узнавать" },
+    { "id": "VERB019", "ger": "liegen, lag, hat gelegen", "rus": "лежать; находиться" },
+    { "id": "VERB020", "ger": "stattfinden, fand statt, hat stattgefunden", "rus": "происходить, состояться" },
+    { "id": "VERB021", "ger": "steigen, stieg, ist gestiegen", "rus": "подниматься, возрастать" },
+    { "id": "VERB022", "ger": "sinken, sank, ist gesunken", "rus": "падать, снижаться" },
+    { "id": "VERB023", "ger": "tun, tat, hat getan", "rus": "делать" },
+    { "id": "VERB024", "ger": "vertreiben, vertrieb, hat vertrieben", "rus": "прогонять; продавать" },
+    { "id": "VERB025", "ger": "werden, wurde, ist geworden", "rus": "становиться" },
+    { "id": "VERB026", "ger": "zerschlagen, zerschlug, hat zerschlagen", "rus": "разбивать (вдребезги)" }
+  ]
 }
