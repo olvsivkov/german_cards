@@ -722,5 +722,22 @@
     { "id": "chI8oP1v", "ger": "sich am Ausgang befinden", "rus": "находиться у выхода" },
     { "id": "ciB3qM7w", "ger": "von Gleis 4 abfahren", "rus": "отправляться с 4-го пути" },
     { "id": "cjK7gN4x", "ger": "Ersatzbusse stehen zur Weiterfahrt bereit", "rus": "запасные автобусы готовы для продолжения поездки" }
+  ],
+    "Лексика Medien und Fernsehen": [
+    { "id": "mE1dI2aN", "ger": "die Nachrichtensendungen", "rus": "новостные программы" },
+    { "id": "sP3iE4lF", "ger": "die Spielfilme", "rus": "художественные фильмы" },
+    { "id": "sE5rI6eN", "ger": "die Serien", "rus": "сериалы" },
+    { "id": "pO7lI8tM", "ger": "die politischen Magazine", "rus": "политические журналы/программы" },
+    { "id": "gE9mE0iN", "ger": "gemeinsam schauen", "rus": "смотреть вместе" },
+    { "id": "sE1nD2uN", "ger": "die Sendung", "rus": "программа/шоу" },
+    { "id": "zU3sC4hA", "ger": "die Zuschauer", "rus": "зрители" },
+    { "id": "aU5fP6lA", "ger": "auf Platz zwei folgen", "rus": "на втором месте следуют" },
+    { "id": "kR7iM8eI", "ger": "die Krimireihe", "rus": "детективный сериал" },
+    { "id": "dA9hI0nT", "ger": "dahinter folgen", "rus": "за ними следуют" },
+    { "id": "zE1uS2cH", "ger": "die Zuschauerzahlen", "rus": "рейтинги зрителей" },
+    { "id": "dI3eT4aT", "ger": "die Tatortkrimis", "rus": "криминалы 'Tatort'" },
+    { "id": "fU5ußB6aL", "ger": "die Fußballereignisse", "rus": "футбольные события" },
+    { "id": "lI7iE8bU", "ger": "die Lieblingssendung", "rus": "любимая программа" },
+    { "id": "eR9rG10e", "ger": "das Ergebnis", "rus": "результат" }
   ]
 }
