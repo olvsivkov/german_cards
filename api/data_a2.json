@@ -768,5 +768,26 @@
     { "id": "aU9sB10rE", "ger": "sich ausbreiten", "rus": "распространяться" },
     { "id": "iD11eA12lE", "ger": "die idealen Lebensbedingungen für Mücken", "rus": "идеальные условия жизни для комаров" },
     { "id": "bE13r14iC", "ger": "berichten", "rus": "сообщать/докладывать" }
+  ],
+  "Лексика Politik Themen": [
+    { "id": "bU1nD2e3", "ger": "die Bundesrepublik Deutschland", "rus": "Федеративная Республика Германия" },
+    { "id": "eN4tS5cH", "ger": "die Entscheidung", "rus": "решение" },
+    { "id": "gE6sE7tZ", "ger": "das Gesetz", "rus": "закон" },
+    { "id": "gR8uN9dG", "ger": "das Grundgesetz", "rus": "Основной закон (конституция)" },
+    { "id": "äN0nD1eR", "ger": "ändern", "rus": "менять" },
+    { "id": "gE2nE3hM", "ger": "genehmigen", "rus": "утверждать/одобрять" },
+    { "id": "iN4tE5rN", "ger": "der internationale Vertrag", "rus": "международный договор" },
+    { "id": "eN6tS7cH", "ger": "entscheiden", "rus": "решать" },
+    { "id": "bU8nD9eS", "ger": "die Bundestagswahl", "rus": "выборы в Бундестаг" },
+    { "id": "sT0iM1mE", "ger": "die Stimme", "rus": "голос (на выборах)" },
+    { "id": "aB2gE3oR", "ger": "der Abgeordnete", "rus": "депутат" },
+    { "id": "rE4gI5eR", "ger": "die Regierungsgeschäfte", "rus": "дела правительства" },
+    { "id": "mÄ6cH7tI", "ger": "die mächtigste Person", "rus": "самая влиятельная фигура" },
+    { "id": "bE8sT9iM", "ger": "bestimmen", "rus": "определять" },
+    { "id": "dE0rM1iN", "ger": "der Minister", "rus": "министр" },
+    { "id": "pO2lI3tI", "ger": "die politischen Richtlinien", "rus": "политические направления" },
+    { "id": "sT4aA5tS", "ger": "das Staatsoberhaupt", "rus": "глава государства" },
+    { "id": "vE6rT7rE", "ger": "vertreten", "rus": "представлять" },
+    { "id": "bU8nD9eR", "ger": "die Bundesregierung", "rus": "федеральное правительство" }
   ]
 }
