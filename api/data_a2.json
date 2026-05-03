@@ -789,5 +789,30 @@
     { "id": "sT4aA5tS", "ger": "das Staatsoberhaupt", "rus": "глава государства" },
     { "id": "vE6rT7rE", "ger": "vertreten", "rus": "представлять" },
     { "id": "bU8nD9eR", "ger": "die Bundesregierung", "rus": "федеральное правительство" }
+  ],
+  "Сильные глаголы 2 часть": [
+    { "id": "dR5eW9qT001", "ger": "ändern, änderte, hat geändert", "rus": "менять(ся)" },
+    { "id": "dR5eW9qT002", "ger": "austauschen, tauschte aus, hat ausgetauscht", "rus": "обменивать" },
+    { "id": "dR5eW9qT003", "ger": "belegen, belegte, hat belegt", "rus": "занимать (место)" },
+    { "id": "dR5eW9qT004", "ger": "bügeln, bügelte, hat gebügelt", "rus": "гладить" },
+    { "id": "dR5eW9qT005", "ger": "erwarten, erwartete, hat erwartet", "rus": "ожидать" },
+    { "id": "dR5eW9qT006", "ger": "führen, führte, hat geführt", "rus": "вести" },
+    { "id": "dR5eW9qT007", "ger": "handeln, handelte, hat gehandelt", "rus": "действовать" },
+    { "id": "dR5eW9qT008", "ger": "senden, sandte, hat gesandt", "rus": "отправлять" },
+    { "id": "dR5eW9qT009", "ger": "sparen, sparte, hat gespart", "rus": "экономить" },
+    { "id": "dR5eW9qT010", "ger": "vertiefen, vertiefte, hat vertieft", "rus": "углублять" },
+    { "id": "dR5eW9qT011", "ger": "wählen, wählte, hat gewählt", "rus": "выбирать" },
+    { "id": "dR5eW9qT012", "ger": "warnen, warnte, hat gewarnt", "rus": "предупреждать" },
+    { "id": "dR5eW9qT013", "ger": "ablaufen, lief ab, ist abgelaufen", "rus": "истекать" },
+    { "id": "dR5eW9qT014", "ger": "aufnehmen, nahm auf, hat aufgenommen", "rus": "принимать / записывать" },
+    { "id": "dR5eW9qT015", "ger": "bringen, brachte, hat gebracht", "rus": "приносить" },
+    { "id": "dR5eW9qT016", "ger": "entscheiden, entschied, hat entschieden", "rus": "решать" },
+    { "id": "dR5eW9qT017", "ger": "kommen, kam, ist gekommen", "rus": "приходить" },
+    { "id": "dR5eW9qT018", "ger": "mitschreiben, schrieb mit, hat mitgeschrieben", "rus": "записывать (вслед за кем-л.)" },
+    { "id": "dR5eW9qT019", "ger": "scheinen, schien, hat geschienen", "rus": "казаться / светить" },
+    { "id": "dR5eW9qT020", "ger": "sterben, starb, ist gestorben", "rus": "умирать" },
+    { "id": "dR5eW9qT021", "ger": "übertragen, übertrug, hat übertragen", "rus": "передавать / транслировать" },
+    { "id": "dR5eW9qT022", "ger": "verlieren, verlor, hat verloren", "rus": "терять" },
+    { "id": "dR5eW9qT023", "ger": "vertreten, vertrat, hat vertreten", "rus": "представлять (кого-л.) / защищать" }
   ]
 }
