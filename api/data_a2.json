@@ -814,5 +814,23 @@
     { "id": "dR5eW9qT021", "ger": "übertragen, übertrug, hat übertragen", "rus": "передавать / транслировать" },
     { "id": "dR5eW9qT022", "ger": "verlieren, verlor, hat verloren", "rus": "терять" },
     { "id": "dR5eW9qT023", "ger": "vertreten, vertrat, hat vertreten", "rus": "представлять (кого-л.) / защищать" }
+  ],
+  "Слова Thema - открытия": [
+    { "id": "dR5eW9qT008", "ger": "herstellen", "rus": "производить, изготовлять" },
+    { "id": "dR5eW9qT009", "ger": "die Vorschrift", "rus": "предписание, правило" },
+    { "id": "dR5eW9qT010", "ger": "stammen", "rus": "происходить, брать начало" },
+    { "id": "dR5eW9qT011", "ger": "gelten", "rus": "действовать, считаться" },
+    { "id": "dR5eW9qT012", "ger": "entwickeln", "rus": "разрабатывать, развивать" },
+    { "id": "dR5eW9qT013", "ger": "retten", "rus": "спасать" },
+    { "id": "dR5eW9qT014", "ger": "erfinden", "rus": "изобретать" },
+    { "id": "dR5eW9qT015", "ger": "das Schmerzmittel", "rus": "болеутоляющее средство" },
+    { "id": "dR5eW9qT016", "ger": "die Nebenwirkung", "rus": "побочное действие" },
+    { "id": "dR5eW9qT017", "ger": "untersuchen", "rus": "исследовать, обследовать" },
+    { "id": "dR5eW9qT018", "ger": "der Forscher", "rus": "исследователь" },
+    { "id": "dR5eW9qT019", "ger": "die Erfindung", "rus": "изобретение" },
+    { "id": "dR5eW9qT020", "ger": "der Zahlungsverkehr", "rus": "платёжный оборот" },
+    { "id": "dR5eW9qT021", "ger": "koffeinhaltig", "rus": "содержащий кофеин" },
+    { "id": "dR5eW9qT022", "ger": "erfolglos", "rus": "безуспешный" },
+    { "id": "dR5eW9qT023", "ger": "sauber", "rus": "чистый" }
   ]
 }
