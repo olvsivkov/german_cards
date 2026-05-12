@@ -832,5 +832,23 @@
     { "id": "dR5eW9qT021", "ger": "koffeinhaltig", "rus": "содержащий кофеин" },
     { "id": "dR5eW9qT022", "ger": "erfolglos", "rus": "безуспешный" },
     { "id": "dR5eW9qT023", "ger": "sauber", "rus": "чистый" }
+  ],
+  "Слова Thema - Ideen und Produkte": [
+    { "id": "dR5eW9qT001", "ger": "das Gerät", "rus": "устройство, прибор" },
+    { "id": "dR5eW9qT002", "ger": "einschalten", "rus": "включать" },
+    { "id": "dR5eW9qT003", "ger": "liefern", "rus": "поставлять" },
+    { "id": "dR5eW9qT004", "ger": "das Angebot", "rus": "предложение" },
+    { "id": "dR5eW9qT005", "ger": "das Modell", "rus": "модель" },
+    { "id": "dR5eW9qT006", "ger": "die Vorwäsche", "rus": "предварительная стирка" },
+    { "id": "dR5eW9qT007", "ger": "die Tür", "rus": "дверь" },
+    { "id": "dR5eW9qT008", "ger": "der Starttaste", "rus": "кнопка пуска" },
+    { "id": "dR5eW9qT009", "ger": "der Terminkalender", "rus": "календарь" },
+    { "id": "dR5eW9qT010", "ger": "die Temperatur", "rus": "температура" },
+    { "id": "dR5eW9qT011", "ger": "der Energieverbrauch", "rus": "энергопотребление" },
+    { "id": "dR5eW9qT012", "ger": "der Knopf", "rus": "кнопка" },
+    { "id": "dR5eW9qT013", "ger": "einfach", "rus": "просто" },
+    { "id": "dR5eW9qT014", "ger": "bedienen", "rus": "управлять" },
+    { "id": "dR5eW9qT015", "ger": "anschließen", "rus": "подключать" },
+    { "id": "dR5eW9qT016", "ger": "einstellen", "rus": "настраивать" }
   ]
 }
