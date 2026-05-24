@@ -874,5 +874,27 @@
     { "id": "dR5eW9qT036", "ger": "der Streit", "rus": "ссора, спор" },
     { "id": "dR5eW9qT037", "ger": "die Prozesse vor Gericht", "rus": "судебные процессы" },
     { "id": "dR5eW9qT038", "ger": "die Eigentümer", "rus": "владельцы" }
+  ], 
+   "Слова Thema - Als - Wenn": [
+    { "id": "dR5eW9qT024", "ger": "Bewerbungsgespräch", "rus": "собеседование при приёме на работу" },
+    { "id": "dR5eW9qT025", "ger": "an Besprechungen teilnehmen", "rus": "участвовать в совещаниях" },
+    { "id": "dR5eW9qT026", "ger": "vorbei sein", "rus": "заканчиваться / пройти" },
+    { "id": "dR5eW9qT027", "ger": "Studienrichtung", "rus": "направление обучения" },
+    { "id": "dR5eW9qT028", "ger": "Studienrichtung wechseln", "rus": "сменить направление обучения" },
+    { "id": "dR5eW9qT029", "ger": "sich um den ersten Job bewerben", "rus": "подавать заявку на первую работу" },
+    { "id": "dR5eW9qT030", "ger": "kennenlernen", "rus": "знакомиться / узнавать" },
+    { "id": "dR5eW9qT031", "ger": "gut laufen", "rus": "идти хорошо / проходить удачно" },
+    { "id": "dR5eW9qT032", "ger": "einstellen", "rus": "нанимать / принимать на работу" },
+    { "id": "dR5eW9qT033", "ger": "anschließen", "rus": "подключать / присоединять" },
+    { "id": "dR5eW9qT034", "ger": "drücken", "rus": "жать / нажимать" },
+    { "id": "dR5eW9qT035", "ger": "umtauschen", "rus": "обменивать" },
+    { "id": "dR5eW9qT036", "ger": "nicht nur... sondern auch...", "rus": "не только... но и..." },
+    { "id": "dR5eW9qT037", "ger": "Ereignis", "rus": "событие" },
+    { "id": "dR5eW9qT038", "ger": "Vergangenheit", "rus": "прошедшее время / прошлое" },
+    { "id": "dR5eW9qT039", "ger": "Gegenwart", "rus": "настоящее время" },
+    { "id": "dR5eW9qT040", "ger": "Zukunft", "rus": "будущее время" },
+    { "id": "dR5eW9qT041", "ger": "einmalig", "rus": "однократный" },
+    { "id": "dR5eW9qT042", "ger": "mehrmalig", "rus": "многократный" },
+    { "id": "dR5eW9qT043", "ger": "wessen", "rus": "чей / чья / чьё / чьи" }
   ]
 }
