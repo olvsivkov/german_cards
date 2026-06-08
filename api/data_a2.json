@@ -968,5 +968,17 @@
     { "id": "dR5eW9qT111", "ger": "ein Duell gewinnen", "rus": "выиграть дуэль" },
     { "id": "dR5eW9qT112", "ger": "Es kommt zu Streit/Intrigen", "rus": "Происходит ссора/интриги" },
     { "id": "dR5eW9qT113", "ger": "zum endgültigen Bruch führen", "rus": "привести к окончательному разрыву" }
+  ],
+   "Bewegung im Alltag": [
+    { "id": "dR5eW9qT114", "ger": "die Redewendung", "rus": "фразеологизм / устойчивое выражение" },
+    { "id": "dR5eW9qT115", "ger": "wissenschaftliche Studien zeigen", "rus": "научные исследования показывают" },
+    { "id": "dR5eW9qT116", "ger": "Der Arbeitsdruck wächst", "rus": "рабочее давление растёт" },
+    { "id": "dR5eW9qT117", "ger": "das Stressempfinden", "rus": "ощущение стресса" },
+    { "id": "dR5eW9qT118", "ger": "hilft dagegen vor allem eins", "rus": "помогает против этого прежде всего одно" },
+    { "id": "dR5eW9qT119", "ger": "sich bewegen", "rus": "двигаться" },
+    { "id": "dR5eW9qT120", "ger": "Umfragen haben ergeben", "rus": "опросы показали" },
+    { "id": "dR5eW9qT121", "ger": "die Senioren (Pl.)", "rus": "пожилые люди" },
+    { "id": "dR5eW9qT122", "ger": "der Sportmuffel", "rus": "человек, не любящий спорт" },
+    { "id": "dR5eW9qT123", "ger": "der Gesundheitszustand", "rus": "состояние здоровья" }
   ]
 }
