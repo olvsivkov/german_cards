@@ -980,5 +980,22 @@
     { "id": "dR5eW9qT121", "ger": "die Senioren (Pl.)", "rus": "пожилые люди" },
     { "id": "dR5eW9qT122", "ger": "der Sportmuffel", "rus": "человек, не любящий спорт" },
     { "id": "dR5eW9qT123", "ger": "der Gesundheitszustand", "rus": "состояние здоровья" }
+  ],
+   "Thema das Gesundheitssystem": [
+    { "id": "dR5eW9qT124", "ger": "der Allgemeinmediziner", "rus": "врач общей практики" },
+    { "id": "dR5eW9qT125", "ger": "Er behandelt den Patienten", "rus": "Он лечит пациента" },
+    { "id": "dR5eW9qT126", "ger": "Er verschreibt ein Medikament", "rus": "Он выписывает лекарство" },
+    { "id": "dR5eW9qT127", "ger": "überweisen", "rus": "направлять (к другому врачу)" },
+    { "id": "dR5eW9qT128", "ger": "der Facharzt", "rus": "врач-специалист" },
+    { "id": "dR5eW9qT129", "ger": "die Behandlungskosten (Pl.)", "rus": "стоимость лечения" },
+    { "id": "dR5eW9qT130", "ger": "Die Behandlungskosten übernimmt die Krankenversicherung", "rus": "Стоимость лечения берёт на себя медицинская страховка" },
+    { "id": "dR5eW9qT131", "ger": "die gesetzliche Krankenkasse", "rus": "государственная медицинская касса" },
+    { "id": "dR5eW9qT132", "ger": "versichert sein", "rus": "быть застрахованным" },
+    { "id": "dR5eW9qT133", "ger": "die Bevölkerung", "rus": "население" },
+    { "id": "dR5eW9qT134", "ger": "krankenversichert sein", "rus": "быть застрахованным на случай болезни" },
+    { "id": "dR5eW9qT135", "ger": "die Versicherungspflicht", "rus": "обязательное страхование" },
+    { "id": "dR5eW9qT136", "ger": "die Pflicht", "rus": "обязанность" },
+    { "id": "dR5eW9qT137", "ger": "die Versicherung", "rus": "страховка" },
+    { "id": "dR5eW9qT138", "ger": "das Gesundheitssystem", "rus": "система здравоохранения" }
   ]
 }
