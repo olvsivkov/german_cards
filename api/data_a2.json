@@ -1015,6 +1015,9 @@
     { "id": "dR5eW9qT152", "ger": "berichten", "rus": "сообщать / докладывать" },
     { "id": "dR5eW9qT153", "ger": "ankommen", "rus": "прибывать" },
     { "id": "dR5eW9qT154", "ger": "es scheint", "rus": "кажется / по-видимому" },
-    { "id": "dR5eW9qT155", "ger": "Angst haben vor...", "rus": "бояться чего-то" }
+    { "id": "dR5eW9qT155", "ger": "Angst haben vor...", "rus": "бояться чего-то" },
+    { "id": "dR5eW9qT156", "ger": "sich ärgern über", "rus": "злиться на / раздражаться из-за" },
+    { "id": "dR5eW9qT157", "ger": "Angst haben vor", "rus": "бояться чего-то" },
+    { "id": "dR5eW9qT158", "ger": "stolz sein auf", "rus": "гордиться чем-то / кем-то" }
   ]
 }
