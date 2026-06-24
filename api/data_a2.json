@@ -997,5 +997,24 @@
     { "id": "dR5eW9qT136", "ger": "die Pflicht", "rus": "обязанность" },
     { "id": "dR5eW9qT137", "ger": "die Versicherung", "rus": "страховка" },
     { "id": "dR5eW9qT138", "ger": "das Gesundheitssystem", "rus": "система здравоохранения" }
+  ],
+   "Thema das Gefühl": [
+    { "id": "dR5eW9qT139", "ger": "die Internet-Werbung", "rus": "интернет-реклама" },
+    { "id": "dR5eW9qT140", "ger": "unpünktliche Verkehrsmittel (Pl.)", "rus": "непунктуальные транспортные средства" },
+    { "id": "dR5eW9qT141", "ger": "andere Verkehrsteilnehmer (Pl.)", "rus": "другие участники дорожного движения" },
+    { "id": "dR5eW9qT142", "ger": "leere Autobahnen (Pl.)", "rus": "пустые автобаны" },
+    { "id": "dR5eW9qT143", "ger": "der Beamte / die Beamtin", "rus": "государственный служащий" },
+    { "id": "dR5eW9qT144", "ger": "die Behörde", "rus": "ведомство / учреждение" },
+    { "id": "dR5eW9qT145", "ger": "die Blumen (Pl.)", "rus": "цветы" },
+    { "id": "dR5eW9qT146", "ger": "die Arbeitskollegen (Pl.)", "rus": "коллеги по работе" },
+    { "id": "dR5eW9qT147", "ger": "die Erfolge (Pl.)", "rus": "успехи" },
+    { "id": "dR5eW9qT148", "ger": "der Politiker / die Politikerin", "rus": "политик" },
+    { "id": "dR5eW9qT149", "ger": "die Nachbarn (Pl.)", "rus": "соседи" },
+    { "id": "dR5eW9qT150", "ger": "die Verwandten (Pl.)", "rus": "родственники" },
+    { "id": "dR5eW9qT151", "ger": "es geht um...", "rus": "речь идёт о..." },
+    { "id": "dR5eW9qT152", "ger": "berichten", "rus": "сообщать / докладывать" },
+    { "id": "dR5eW9qT153", "ger": "ankommen", "rus": "прибывать" },
+    { "id": "dR5eW9qT154", "ger": "es scheint", "rus": "кажется / по-видимому" },
+    { "id": "dR5eW9qT155", "ger": "Angst haben vor...", "rus": "бояться чего-то" }
   ]
 }
