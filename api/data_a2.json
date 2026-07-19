@@ -1109,5 +1109,20 @@
     { "id": "dR5eW9qT244", "ger": "verschreiben", "rus": "выписывать (рецепт)" },
     { "id": "dR5eW9qT245", "ger": "versprechen", "rus": "обещать" },
     { "id": "dR5eW9qT246", "ger": "wachsen", "rus": "расти" }
-   ]
+   ],
+   "Thema Fotografieren auf Reisen ": [
+    { "id": "dR5eW9qT247", "ger": "herausfinden", "rus": "выяснять / узнавать" },
+    { "id": "dR5eW9qT248", "ger": "die Probanden (Pl.)", "rus": "испытуемые / участники эксперимента" },
+    { "id": "dR5eW9qT249", "ger": "die Stadtrundfahrt", "rus": "экскурсия по городу" },
+    { "id": "dR5eW9qT250", "ger": "in einer Markthalle", "rus": "в крытом рынке" },
+    { "id": "dR5eW9qT251", "ger": "die Hälfte der Teilnehmer", "rus": "половина участников" },
+    { "id": "dR5eW9qT252", "ger": "die andere Hälfte", "rus": "другая половина" },
+    { "id": "dR5eW9qT253", "ger": "der Fragebogen", "rus": "анкета / опросный лист" },
+    { "id": "dR5eW9qT254", "ger": "betrachten", "rus": "рассматривать / наблюдать" },
+    { "id": "dR5eW9qT255", "ger": "halten", "rus": "держать / считать" },
+    { "id": "dR5eW9qT256", "ger": "das Studienergebnis", "rus": "результат исследования" },
+    { "id": "dR5eW9qT257", "ger": "während", "rus": "в то время как / во время" },
+    { "id": "dR5eW9qT258", "ger": "das Betrachten", "rus": "рассматривание / наблюдение" },
+    { "id": "dR5eW9qT259", "ger": "verringern", "rus": "уменьшать / сокращать" }
+  ]
 }
