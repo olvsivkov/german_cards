@@ -1234,5 +1234,17 @@
     { "id": "dR5eW9qT363", "ger": "im Schrank hängen", "rus": "висеть в шкафу" },
     { "id": "dR5eW9qT364", "ger": "etwas in den Schrank hängen", "rus": "вешать что-то в шкаф" },
     { "id": "dR5eW9qT365", "ger": "in eine neue Wohnung umziehen / einziehen", "rus": "переезжать / въезжать в новую квартиру" }
-  ]
+  ],
+   "Thema neue Werte": [
+    { "id": "dR5eW9qT366", "ger": "schon längst", "rus": "уже давно / уже давным-давно" },
+    { "id": "dR5eW9qT367", "ger": "erziehen", "rus": "воспитывать" },
+    { "id": "dR5eW9qT368", "ger": "durchführen", "rus": "проводить (мероприятие, исследование)" },
+    { "id": "dR5eW9qT369", "ger": "nacherzählen", "rus": "пересказывать" },
+    { "id": "dR5eW9qT370", "ger": "allein", "rus": "один / одиноко" },
+    { "id": "dR5eW9qT371", "ger": "vorigen Jahr", "rus": "в прошлом году" },
+    { "id": "dR5eW9qT372", "ger": "Es scheint mir", "rus": "Мне кажется" },
+    { "id": "dR5eW9qT373", "ger": "wie wäre es...", "rus": "как насчёт того..." },
+    { "id": "dR5eW9qT374", "ger": "angenehm", "rus": "приятный" },
+    { "id": "dR5eW9qT375", "ger": "bedienen", "rus": "обслуживать / управлять" }
+   ]
 }
