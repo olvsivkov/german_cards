@@ -1275,5 +1275,24 @@
     { "id": "dR5eW9qT402", "ger": "das Wachstum", "rus": "рост" },
     { "id": "dR5eW9qT403", "ger": "hohe Gewinne (Pl.)", "rus": "высокая прибыль" },
     { "id": "dR5eW9qT404", "ger": "verdienen", "rus": "зарабатывать" }
-   ]
+   ],
+   "Thema Die alte Worte": [
+     { "id": "dR5eW9qT405", "ger": "sich bewerben", "rus": "подавать заявление / устраиваться" },
+    { "id": "dR5eW9qT406", "ger": "abbrechen", "rus": "прерывать / отменять" },
+    { "id": "dR5eW9qT407", "ger": "bekommen", "rus": "получать" },
+    { "id": "dR5eW9qT408", "ger": "nehmen", "rus": "брать" },
+    { "id": "dR5eW9qT409", "ger": "die Ergänzung", "rus": "дополнение" },
+    { "id": "dR5eW9qT410", "ger": "verbringen", "rus": "проводить (время)" },
+    { "id": "dR5eW9qT411", "ger": "das Reichstagsgebäude", "rus": "здание Рейхстага" },
+    { "id": "dR5eW9qT412", "ger": "faszinierend", "rus": "увлекательный / захватывающий" },
+    { "id": "dR5eW9qT413", "ger": "anmelden", "rus": "записывать / регистрировать" },
+    { "id": "dR5eW9qT414", "ger": "berühmt", "rus": "известный / знаменитый" },
+    { "id": "dR5eW9qT415", "ger": "Kunden beraten", "rus": "консультировать клиентов" },
+    { "id": "dR5eW9qT416", "ger": "abholen", "rus": "забирать" },
+    { "id": "dR5eW9qT417", "ger": "sich um eine neue Stelle bewerben", "rus": "подавать заявление на новое место работы" },
+    { "id": "dR5eW9qT418", "ger": "beschäftigen", "rus": "занимать / давать работу" },
+    { "id": "dR5eW9qT419", "ger": "sich unterhalten", "rus": "разговаривать / беседовать" },
+    { "id": "dR5eW9qT420", "ger": "sich einschreiben", "rus": "записываться / регистрироваться" },
+    { "id": "dR5eW9qT421", "ger": "sich entspannen", "rus": "расслабляться" }
+    ]
 }
