@@ -1294,5 +1294,15 @@
     { "id": "dR5eW9qT419", "ger": "sich unterhalten", "rus": "разговаривать / беседовать" },
     { "id": "dR5eW9qT420", "ger": "sich einschreiben", "rus": "записываться / регистрироваться" },
     { "id": "dR5eW9qT421", "ger": "sich entspannen", "rus": "расслабляться" }
+    ],
+    "Thema Управление глаголов": [
+      { "id": "dR5eW9qT422", "ger": "sich ärgern über (+Akk)", "rus": "злиться на / раздражаться из-за" },
+      { "id": "dR5eW9qT423", "ger": "sich bewerben um (+Akk) / bei (+Dat)", "rus": "подавать заявление на / устраиваться в" },
+      { "id": "dR5eW9qT424", "ger": "sich erinnern an (+Akk)", "rus": "вспоминать о / помнить о" },
+      { "id": "dR5eW9qT425", "ger": "sich freuen über (+Akk) / auf (+Akk)", "rus": "радоваться чему-то / предвкушать" },
+      { "id": "dR5eW9qT426", "ger": "sich verlieben in (+Akk)", "rus": "влюбляться в" },
+      { "id": "dR5eW9qT427", "ger": "ausgeben für (+Akk)", "rus": "тратить на" },
+      { "id": "dR5eW9qT428", "ger": "sich beschäftigen mit (+Dat)", "rus": "заниматься чем-то" },
+      { "id": "dR5eW9qT429", "ger": "sich treffen mit (+Dat)", "rus": "встречаться с" }
     ]
 }
